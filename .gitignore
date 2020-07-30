@@ -1,0 +1,3 @@
+#排除idea文件
+.idea
+*.iml
